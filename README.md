@@ -27,8 +27,8 @@ You are an analytics guru, so your partners have asked you to prepare a market r
 
 # Data Dictionary
 
-`object_name` — establishment name
-`chain` — chain establishment (TRUE/FALSE)
-`object_type` — establishment type
-`address` — address
-`number` — number of seats
+- `object_name` — establishment name
+- `chain` — chain establishment (TRUE/FALSE)
+- `object_type` — establishment type
+- `address` — address
+- `number` — number of seats
